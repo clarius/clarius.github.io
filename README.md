@@ -1,3 +1,8 @@
 ![Icon](img/icon-32.png) Clarius Org
 
-Código abierto y ayuda humanitaria.
+Código abierto e impacto social.
+
+Open source and social impact.
+
+
+
