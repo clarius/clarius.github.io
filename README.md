@@ -1,4 +1,4 @@
-![Icon](img/icon-32.png) Clarius Org
+![Icon](img/logo-32.png) Clarius Org
 
 Código abierto e impacto social.
 
